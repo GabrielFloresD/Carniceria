@@ -364,6 +364,7 @@ a {
   row-gap: 1rem;
   border: 2px solid #ff8e3c50;
   border-radius: 2rem;
+  cursor: pointer;
   transition: border-color .25s, box-shadow .25s;
   transition-timing-function: var(--timingFunction);
 }
