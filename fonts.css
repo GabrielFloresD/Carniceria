@@ -1,0 +1,20 @@
+/* Font Koulen */
+
+@font-face {
+  font-family: 'Koulen';
+  src: url(fonts/Koulen-Regular.woff) format('woff');
+}
+
+/* Font Imprima */
+
+@font-face {
+  font-family: 'Imprima';
+  src: url(fonts/Imprima-Regular.woff) format('woff');
+}
+
+/* Font Roboto Slab */
+
+@font-face {
+  font-family: 'RobotoSlab';
+  src: url(fonts/RobotoSlab-VariableFont_wght.woff) format('woff');
+}
